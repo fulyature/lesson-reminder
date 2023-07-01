@@ -1,0 +1,31 @@
+.lesson_lesson {
+  display: flex;
+  width: 100%;
+  margin: 0 auto;
+  margin-bottom: 1.5rem;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.lesson_lesson img {
+  width: 85px;
+  height: 85px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.lesson_text {
+  margin-left: 0.5rem;
+}
+
+.lesson_span {
+  margin-bottom: 0.35rem;
+  font-size: 1rem;
+  color: rgb(144, 246, 219);
+}
+
+.lesson_parag {
+  margin-bottom: 0;
+  font-size: 1rem;
+  color: azure;
+}
